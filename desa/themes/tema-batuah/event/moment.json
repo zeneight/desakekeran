@@ -1,0 +1,27 @@
+
+{
+  "jadwalshalat": true,
+  "defaultevent": false,
+  "customevent": false,
+  "hitungmundur": true,
+  "momentevent": [
+    {
+	  "pemerintah_title": "pemerintah",
+	  "title": "Selamat Hari Raya Nyepi",
+	  "subtitle": "Tahun Baru Saka 1945",
+	  "desktitle": "",
+      "gambar1": "gambar.png",
+	  "gambar2": "gambar.png",
+      "link": "https://opendesa.id/"
+    }
+  ],
+  "countdown": [
+    {
+	  "title": "Memperingati Hari Raya Nyepi",
+	  "deskripsi": "Tahun Baru Saka 1945",
+	  "tanggal": "22",
+	  "bulan": "03",
+      "tahun": "2023"
+    }
+  ]
+}

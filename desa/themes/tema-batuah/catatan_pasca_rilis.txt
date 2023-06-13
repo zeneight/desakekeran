@@ -1,0 +1,13 @@
+
+Update Tema Batuah versi 23.01 dari versi sebelumnya 22.12
+- Perbaikan gambar latar web yang tidak tampil
+
+File yang disesuaikan:
+1. temabatuah/plus/leftpage.php
+2. temabatuah/plus/menu_v.php
+3. temabatuah/plus/layanan_mandiri.php
+4. temabatuah/plus/tophome.php
+
+Tema Batuah 23.01 support OpenSID 23.01 (Premium Rev02 & Umum)
+
+Terima kasih untuk Bro Parso atas kontribusinya....

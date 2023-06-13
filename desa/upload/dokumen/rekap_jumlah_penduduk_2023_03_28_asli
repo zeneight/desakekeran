@@ -1,0 +1,418 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+        <head>
+        <title>Buku Rekapitulasi Jumlah Penduduk</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link href="https://kekeran-badung.desa.id/assets/css/report.css" rel="stylesheet">
+    </head>
+    <body>
+        <div id="container">
+            <div id="body">
+                
+<table>
+	<tbody>
+		<tr>
+			<td>
+									<div style="text-align: center;">
+						<img class="logo" src="/home/u1555649/public_html/kekeran-badung.desa.id/desa/logo/1677055298_Lambang_desa_kekeran.png" alt="logo-desa">
+					</div>
+								<h1 class="judul">
+					PEMERINTAH KABUPATEN BADUNG <BR>KECAMATAN MENGWI <BR>DESA KEKERAN				</h1>
+			</td>
+		</tr>
+		<tr>
+			<td><hr class="garis"></td>
+		</tr>
+		<tr>
+			<td class="text-center">
+				<h4>B3. BUKU REKAPITULASI JUMLAH PENDUDUK</h4>
+			</td>
+		</tr>
+		<tr>
+			<td class="text-center">
+				<h4>BUKU REKAPITULASI JUMLAH PENDUDUK BULAN MARET TAHUN 2023</h4>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+				<table class="border thick">
+					<thead>
+						<tr class="border thick">
+							<th rowspan="4">NOMOR URUT</th>
+							<th rowspan="4">NAMA DUSUN / LINGKUNGAN</th>
+							<th colspan="7">JUMLAH PENDUDUK AWAL BULAN</th>
+							<th colspan="8">TAMBAHAN BULAN INI</th>
+							<th colspan="8">PENGURANGAN BULAN INI</th>
+							<th rowspan="2" colspan="7">JML PENDUDUK AKHIR BULAN</th>
+							<th rowspan="4">KET</th>
+						</tr>
+						<tr class="border thick">
+							<th colspan="2">WNA</th>
+							<th colspan="2">WNI</th>
+							<th rowspan="3">JLH KK</th>
+							<th rowspan="3">JML ANGGOTA KELUARGA</th>
+							<th rowspan="3">JML JIWA (7+8)</th>
+							<th colspan="4">LAHIR</th>
+							<th colspan="4">DATANG</th>
+							<th colspan="4">MENINGGAL</th>
+							<th colspan="4">PINDAH</th>
+						</tr>
+						<tr class="border thick">
+							<th rowspan="2">L</th>
+							<th rowspan="2">P</th>
+							<th rowspan="2">L</th>
+							<th rowspan="2">P</th>
+							<th colspan="2">WNA</th>
+							<th colspan="2">WNI</th>
+							<th colspan="2">WNA</th>
+							<th colspan="2">WNI</th>
+							<th colspan="2">WNA</th>
+							<th colspan="2">WNI</th>
+							<th colspan="2">WNA</th>
+							<th colspan="2">WNI</th>
+							<th colspan="2">WNA</th>
+							<th colspan="2">WNI</th>
+							<th rowspan="2">JML KK</th>
+							<th rowspan="2">JML ANGGOTA KELUARGA</th>
+							<th rowspan="2">JML JIWA (30+31)</th>
+						</tr>
+						<tr class="border thick">
+							<th>L</th>
+							<th>P</th>
+							<th>L</th>
+							<th>P</th>
+							<th>L</th>
+							<th>P</th>
+							<th>L</th>
+							<th>P</th>
+							<th>L</th>
+							<th>P</th>
+							<th>L</th>
+							<th>P</th>
+							<th>L</th>
+							<th>P</th>
+							<th>L</th>
+							<th>P</th>
+							<th>L</th>
+							<th>P</th>
+							<th>L</th>
+							<th>P</th>
+						</tr>
+						<tr class="border thick">
+							<th>1</th>
+							<th>2</th>
+							<th>3</th>
+							<th>4</th>
+							<th>5</th>
+							<th>6</th>
+							<th>7</th>
+							<th>8</th>
+							<th>9</th>
+							<th>10</th>
+							<th>11</th>
+							<th>12</th>
+							<th>13</th>
+							<th>14</th>
+							<th>15</th>
+							<th>16</th>
+							<th>17</th>
+							<th>18</th>
+							<th>19</th>
+							<th>20</th>
+							<th>21</th>
+							<th>22</th>
+							<th>23</th>
+							<th>24</th>
+							<th>25</th>
+							<th>26</th>
+							<th>27</th>
+							<th>28</th>
+							<th>29</th>
+							<th>30</th>
+							<th>31</th>
+							<th>32</th>
+							<th>33</th>
+						</tr>
+					</thead>
+					<tbody>
+																					<tr>
+									<td class="padat">1</td>
+									<td>DANGIN PANGKUNG</td>
+									<td>-</td>
+									<td>-</td>
+									<td>376</td>
+									<td>384</td>
+									<td>158</td>
+									<td>602</td>
+									<td>760</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>1</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+									<td>375</td>
+									<td>380</td>
+									<td>158</td>
+									<td>597</td>
+									<td>755</td>
+									<td>-</td>
+								</tr>
+															<tr>
+									<td class="padat">2</td>
+									<td>DELOD SEMA</td>
+									<td>-</td>
+									<td>-</td>
+									<td>317</td>
+									<td>309</td>
+									<td>135</td>
+									<td>491</td>
+									<td>626</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>317</td>
+									<td>309</td>
+									<td>135</td>
+									<td>491</td>
+									<td>626</td>
+									<td>-</td>
+								</tr>
+															<tr>
+									<td class="padat">3</td>
+									<td>DELOD YEH</td>
+									<td>-</td>
+									<td>-</td>
+									<td>285</td>
+									<td>251</td>
+									<td>112</td>
+									<td>424</td>
+									<td>536</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>285</td>
+									<td>251</td>
+									<td>112</td>
+									<td>424</td>
+									<td>536</td>
+									<td>-</td>
+								</tr>
+															<tr>
+									<td class="padat">4</td>
+									<td>GELAGAH PUWUN</td>
+									<td>-</td>
+									<td>-</td>
+									<td>296</td>
+									<td>304</td>
+									<td>121</td>
+									<td>479</td>
+									<td>600</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>296</td>
+									<td>304</td>
+									<td>121</td>
+									<td>479</td>
+									<td>600</td>
+									<td>-</td>
+								</tr>
+															<tr>
+									<td class="padat">5</td>
+									<td>PENYARIKAN</td>
+									<td>-</td>
+									<td>-</td>
+									<td>168</td>
+									<td>156</td>
+									<td>68</td>
+									<td>256</td>
+									<td>324</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>168</td>
+									<td>156</td>
+									<td>68</td>
+									<td>256</td>
+									<td>324</td>
+									<td>-</td>
+								</tr>
+															<tr>
+									<td class="padat">6</td>
+									<td>SANGIANG</td>
+									<td>-</td>
+									<td>-</td>
+									<td>395</td>
+									<td>392</td>
+									<td>174</td>
+									<td>613</td>
+									<td>787</td>
+									<td>-</td>
+									<td>-</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>396</td>
+									<td>392</td>
+									<td>174</td>
+									<td>614</td>
+									<td>788</td>
+									<td>-</td>
+								</tr>
+															<tr>
+									<td class="padat">7</td>
+									<td>TAUMAN</td>
+									<td>-</td>
+									<td>-</td>
+									<td>188</td>
+									<td>173</td>
+									<td>75</td>
+									<td>286</td>
+									<td>361</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>188</td>
+									<td>173</td>
+									<td>75</td>
+									<td>286</td>
+									<td>361</td>
+									<td>-</td>
+								</tr>
+																		</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+            </div>
+            <br />
+            <table width="10%">
+                <tr class="text-center">
+                    <td colspan="1" width="40mm;">&nbsp;</td>
+                                            <td colspan="2" width="80mm;">
+                            MENGETAHUI
+                            <br>PERBEKEL KEKERAN                            <br><br><br><br>
+                            <br><u>I NYOMAN SUARDA</u>
+                            <br> <!-- /NIP : -->
+                        </td>
+                                        <td colspan="28" width="160mm;">&nbsp;</td>
+                    <td width="80mm;" nowrap>
+                        KEKERAN, 28 MARET 2023                        <!--untuk menampilkan penandatangan ke 2-->
+                        <!-- <br> KEKERAN-->
+                        <br>SEKRETARIS DESA KEKERAN</br>
+                        
+                        <br><br><br><br>
+                        <br><u></u>
+                        <br>/NIP :                     </td>
+                    <td width="40mm;">&nbsp;</td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>
